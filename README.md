@@ -51,6 +51,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 
 - [Tomer Caspi](https://www.linkedin.com/in/tomer-caspi-3b9a49203/)
 
+- [Nitzan Madar](https://www.linkedin.com/in/nitzanmadar/)
+
 
 ## Citation
 If you find this book useful in your research work, please consider citing:
