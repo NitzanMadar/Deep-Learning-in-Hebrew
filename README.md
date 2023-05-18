@@ -6,7 +6,7 @@
 Add a star if the repository helped you 😊
 
 
-![MDLH](https://user-images.githubusercontent.com/56107590/113211481-2d641380-927e-11eb-9e85-8faef47de082.png)
+![MDLH](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/deepnightleaners%20reviews/Coverpage.png)
 
 For any issue please contact us at Avrahamsapir1@gmail.com.
 
@@ -32,6 +32,8 @@ For any issue please contact us at Avrahamsapir1@gmail.com.
 - [Maya Rapaport](https://www.linkedin.com/in/maya-rapaport/)
 
 - [Nava (Reinitz) Leibovich](https://www.linkedin.com/in/nava-leibovich/?originalSubdomain=il)
+
+- [Nitzan Madar](https://www.linkedin.com/in/nitzanmadar/)
 
 - [Or Avrahami](https://www.linkedin.com/in/or-a-391692199/)
 
@@ -402,6 +404,15 @@ If you find this book useful in your research work, please consider citing:
 - [ ]	11.6.2. Inverse RL
 
 #### 11.7. Partially Observed Markov Decision Process (POMDP) 
+
+
+## 12. [Graph Neural Networks](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew/blob/main/12%20-%20Graph%20Neural%20Networks.pdf)
+#### 12.1. Introduction to Graphs
+- [x]	12.1.1. Represent Data as a Graph
+
+- [x]	12.1.2. Tasks on Graphs
+
+- [x]   12.1.3. The challenge of learning graphs
 
 --------------------------------------
 
